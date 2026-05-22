@@ -24,3 +24,12 @@ Simulates a secure login system with:
 
 ## Goal
 Junior AI Security Engineer role by mid 2027
+### Day 3 Bonus - Caesar Cipher
+Basic cryptography implementation.
+Encrypts and decrypts messages using a shift number.
+Foundation of understanding modern encryption.
+
+### Day 4 - Vigenere Cipher
+Stronger encryption than Caesar cipher.
+Uses a keyword instead of a single shift number.
+How early military communications were encrypted.

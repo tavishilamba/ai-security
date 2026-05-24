@@ -33,3 +33,19 @@ Foundation of understanding modern encryption.
 Stronger encryption than Caesar cipher.
 Uses a keyword instead of a single shift number.
 How early military communications were encrypted.
+# Tavishi Lamba
+
+CS Student @ University of Roehampton  
+Building towards AI Security Engineering
+
+## What I'm building
+- Password analyzers and secure authentication systems
+- Cryptography tools — Caesar and Vigenere ciphers  
+- Network reconnaissance tools — port scanners
+- Daily commits, real security logic, no shortcuts
+
+## Skills in progress
+Python · Cybersecurity · Cryptography · Network Security · Linux
+
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/tavishilamba)

@@ -48,4 +48,8 @@ Building towards AI Security Engineering
 Python · Cybersecurity · Cryptography · Network Security · Linux
 
 ## Connect
+<<<<<<< HEAD
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/tavishilamba)
+=======
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/tavishilamba)
+>>>>>>> 5f3ee66ac466eaae93899cb378d5c29c607db4ed

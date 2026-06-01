@@ -53,3 +53,10 @@ Python · Cybersecurity · Cryptography · Network Security · Linux
 =======
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/tavishilamba)
 >>>>>>> 5f3ee66ac466eaae93899cb378d5c29c607db4ed
+### Day 7 - Network Ping Sweeper
+Scans a range of IP addresses to find live hosts.
+Real reconnaissance tool used in network security audits.
+
+### Day 8 - File Integrity Checker
+Hashes files using SHA-256 to detect tampering.
+Core concept used in intrusion detection systems.
